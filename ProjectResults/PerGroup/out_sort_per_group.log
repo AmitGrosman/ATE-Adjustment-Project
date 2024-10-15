@@ -1,0 +1,673 @@
+nohup: ignoring input
+
+Experiment Configuration:
+Database Sizes: [1000000, 2000000, 3000000, 4000000, 5000000, 6000000, 7000000, 8000000, 9000000, 10000000]
+Number of Trials: 3
+Epsilon Adjustment Factors: [10, 100, 1000, 10000]
+Target Percentage of Rows to Remove: 10.0%
+
+Using 48 CPU cores for parallel processing.
+
+Starting experiment with random seed 704357.
+
+Processing Dataset Size: 1000000
+
+Statistics for Dataset Size: 1000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 1000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 42.67
+Average Tuples Removed From W=0: 0.00
+Average Tuples Removed From W=1: 42.67
+Average Time Taken: 7.73 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 1000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 112.00
+Average Tuples Removed From W=0: 0.33
+Average Tuples Removed From W=1: 111.67
+Average Time Taken: 20.53 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 1000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 576.67
+Average Tuples Removed From W=0: 281.00
+Average Tuples Removed From W=1: 295.67
+Average Time Taken: 99.61 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 1000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 871.00
+Average Tuples Removed From W=0: 526.00
+Average Tuples Removed From W=1: 345.00
+Average Time Taken: 168.93 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 2000000
+
+Statistics for Dataset Size: 2000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 2000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 158.67
+Average Tuples Removed From W=0: 4.33
+Average Tuples Removed From W=1: 154.33
+Average Time Taken: 66.38 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 2000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 90.00
+Average Tuples Removed From W=0: 6.00
+Average Tuples Removed From W=1: 84.00
+Average Time Taken: 38.12 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 2000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 693.33
+Average Tuples Removed From W=0: 180.67
+Average Tuples Removed From W=1: 512.67
+Average Time Taken: 289.23 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 2000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 1861.67
+Average Tuples Removed From W=0: 632.33
+Average Tuples Removed From W=1: 1229.33
+Average Time Taken: 794.81 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 3000000
+
+Statistics for Dataset Size: 3000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 3000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 31.00
+Average Tuples Removed From W=0: 0.00
+Average Tuples Removed From W=1: 31.00
+Average Time Taken: 21.53 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 3000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 119.33
+Average Tuples Removed From W=0: 0.33
+Average Tuples Removed From W=1: 119.00
+Average Time Taken: 76.57 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 3000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 2573.00
+Average Tuples Removed From W=0: 1687.33
+Average Tuples Removed From W=1: 885.67
+Average Time Taken: 1649.62 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 3000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 2683.00
+Average Tuples Removed From W=0: 1703.00
+Average Tuples Removed From W=1: 980.00
+Average Time Taken: 1716.71 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 4000000
+
+Statistics for Dataset Size: 4000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 163.33
+Average Tuples Removed From W=0: 145.33
+Average Tuples Removed From W=1: 18.00
+Average Time Taken: 141.41 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 124.00
+Average Tuples Removed From W=0: 65.33
+Average Tuples Removed From W=1: 58.67
+Average Time Taken: 107.25 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 1319.00
+Average Tuples Removed From W=0: 969.67
+Average Tuples Removed From W=1: 349.33
+Average Time Taken: 1113.69 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 3415.67
+Average Tuples Removed From W=0: 2269.33
+Average Tuples Removed From W=1: 1146.33
+Average Time Taken: 2930.41 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 5000000
+
+Statistics for Dataset Size: 5000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 5000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 50.00
+Average Tuples Removed From W=0: 50.00
+Average Tuples Removed From W=1: 0.00
+Average Time Taken: 54.99 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 5000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 217.67
+Average Tuples Removed From W=0: 217.67
+Average Tuples Removed From W=1: 0.00
+Average Time Taken: 234.29 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 5000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 260.00
+Average Tuples Removed From W=0: 256.67
+Average Tuples Removed From W=1: 3.33
+Average Time Taken: 281.91 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 5000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 5127.33
+Average Tuples Removed From W=0: 3268.67
+Average Tuples Removed From W=1: 1858.67
+Average Time Taken: 5513.19 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 6000000
+
+Statistics for Dataset Size: 6000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 6000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 267.67
+Average Tuples Removed From W=0: 0.00
+Average Tuples Removed From W=1: 267.67
+Average Time Taken: 349.22 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 6000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 244.00
+Average Tuples Removed From W=0: 0.00
+Average Tuples Removed From W=1: 244.00
+Average Time Taken: 314.00 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 6000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 259.00
+Average Tuples Removed From W=0: 6.33
+Average Tuples Removed From W=1: 252.67
+Average Time Taken: 336.80 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 6000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 3749.00
+Average Tuples Removed From W=0: 2264.33
+Average Tuples Removed From W=1: 1484.67
+Average Time Taken: 4763.38 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 7000000
+
+Statistics for Dataset Size: 7000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 7000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 101.33
+Average Tuples Removed From W=0: 31.33
+Average Tuples Removed From W=1: 70.00
+Average Time Taken: 155.33 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 7000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 189.00
+Average Tuples Removed From W=0: 181.00
+Average Tuples Removed From W=1: 8.00
+Average Time Taken: 282.76 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 7000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 113.67
+Average Tuples Removed From W=0: 18.33
+Average Tuples Removed From W=1: 95.33
+Average Time Taken: 172.74 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 7000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 5421.67
+Average Tuples Removed From W=0: 3129.00
+Average Tuples Removed From W=1: 2292.67
+Average Time Taken: 8236.62 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 8000000
+
+Statistics for Dataset Size: 8000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 8000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 227.67
+Average Tuples Removed From W=0: 227.67
+Average Tuples Removed From W=1: 0.00
+Average Time Taken: 396.20 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 8000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 209.67
+Average Tuples Removed From W=0: 209.33
+Average Tuples Removed From W=1: 0.33
+Average Time Taken: 360.01 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 8000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 375.67
+Average Tuples Removed From W=0: 375.67
+Average Tuples Removed From W=1: 0.00
+Average Time Taken: 650.47 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 8000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 6955.33
+Average Tuples Removed From W=0: 2381.00
+Average Tuples Removed From W=1: 4574.33
+Average Time Taken: 12106.41 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 9000000
+
+Statistics for Dataset Size: 9000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 9000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 318.00
+Average Tuples Removed From W=0: 0.00
+Average Tuples Removed From W=1: 318.00
+Average Time Taken: 622.38 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 9000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 218.33
+Average Tuples Removed From W=0: 0.00
+Average Tuples Removed From W=1: 218.33
+Average Time Taken: 430.30 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 9000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 2511.67
+Average Tuples Removed From W=0: 1595.33
+Average Tuples Removed From W=1: 916.33
+Average Time Taken: 4776.13 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 9000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 7431.00
+Average Tuples Removed From W=0: 4752.33
+Average Tuples Removed From W=1: 2678.67
+Average Time Taken: 14577.36 seconds
+--------------------------------------------------
+
+
+Processing Dataset Size: 10000000
+
+Statistics for Dataset Size: 10000000
+==================================================
+
+
+Testing with Epsilon Factor: 10
+
+
+Averages for Dataset Size 10000000, Epsilon Factor 10:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 245.00
+Average Tuples Removed From W=0: 245.00
+Average Tuples Removed From W=1: 0.00
+Average Time Taken: 528.17 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 100
+
+
+Averages for Dataset Size 10000000, Epsilon Factor 100:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 180.33
+Average Tuples Removed From W=0: 180.00
+Average Tuples Removed From W=1: 0.33
+Average Time Taken: 385.74 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 1000
+
+
+Averages for Dataset Size 10000000, Epsilon Factor 1000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 315.67
+Average Tuples Removed From W=0: 315.00
+Average Tuples Removed From W=1: 0.67
+Average Time Taken: 684.39 seconds
+--------------------------------------------------
+
+
+Testing with Epsilon Factor: 10000
+
+
+Averages for Dataset Size 10000000, Epsilon Factor 10000:
+==================================================
+
+Algorithm: Per Group Removal Algorithm
+Number of Successful Trials: 3
+Average Tuples Removed: 8133.67
+Average Tuples Removed From W=0: 2970.00
+Average Tuples Removed From W=1: 5163.67
+Average Time Taken: 17751.90 seconds
+--------------------------------------------------
+
+
+Experiment Completed.

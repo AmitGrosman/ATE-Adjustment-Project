@@ -1,0 +1,182 @@
+Statistics for Dataset Size: 4000000
+==================================================
+
+--- Trial 1 ---
+Original Difference: 29.242434
+New Difference: 29.242355
+Epsilon Factor: 10
+Epsilon: 0.0000078715
+
+
+--- Trial 2 ---
+Original Difference: 29.242434
+New Difference: 29.243072
+Epsilon Factor: 10
+Epsilon: 0.0000638164
+
+
+--- Trial 3 ---
+Original Difference: 29.242434
+New Difference: 29.234209
+Epsilon Factor: 10
+Epsilon: 0.0008225083
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 10:
+==================================================
+Algorithm: Greedy Naive
+Average Tuples Removed: 169.66666666666666
+Average Time Taken: 1.10 seconds
+--------------------------------------------------
+Algorithm: Greedy Binary Search
+Average Tuples Removed: 169.66666666666666
+Average Time Taken: 17.32 seconds
+--------------------------------------------------
+Algorithm: Combined Naive-Binary
+Average Tuples Removed: 169.66666666666666
+Average Time Taken: 1.02 seconds
+--------------------------------------------------
+
+--- Trial 1 ---
+Original Difference: 29.242434
+New Difference: 29.241726
+Epsilon Factor: 100
+Epsilon: 0.0000070797
+
+
+--- Trial 2 ---
+Original Difference: 29.242434
+New Difference: 29.247683
+Epsilon Factor: 100
+Epsilon: 0.0000524925
+
+
+--- Trial 3 ---
+Original Difference: 29.242434
+New Difference: 29.248807
+Epsilon Factor: 100
+Epsilon: 0.0000637273
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 100:
+==================================================
+Algorithm: Greedy Naive
+Average Tuples Removed: 143.66666666666666
+Average Time Taken: 1.07 seconds
+--------------------------------------------------
+Algorithm: Greedy Binary Search
+Average Tuples Removed: 143.66666666666666
+Average Time Taken: 15.17 seconds
+--------------------------------------------------
+Algorithm: Combined Naive-Binary
+Average Tuples Removed: 143.66666666666666
+Average Time Taken: 1.07 seconds
+--------------------------------------------------
+
+--- Trial 1 ---
+Original Difference: 29.242434
+New Difference: 29.244324
+Epsilon Factor: 1000
+Epsilon: 0.0000018904
+
+
+--- Trial 2 ---
+Original Difference: 29.242434
+New Difference: 29.240081
+Epsilon Factor: 1000
+Epsilon: 0.0000023526
+
+
+--- Trial 3 ---
+Original Difference: 29.242434
+New Difference: 29.249784
+Epsilon Factor: 1000
+Epsilon: 0.0000073499
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 1000:
+==================================================
+Algorithm: Greedy Naive
+Average Tuples Removed: 181.0
+Average Time Taken: 1.09 seconds
+--------------------------------------------------
+Algorithm: Greedy Binary Search
+Average Tuples Removed: 154.66666666666666
+Average Time Taken: 16.32 seconds
+--------------------------------------------------
+Algorithm: Combined Naive-Binary
+Average Tuples Removed: 156.0
+Average Time Taken: 1.55 seconds
+--------------------------------------------------
+
+--- Trial 1 ---
+Original Difference: 29.242434
+New Difference: 29.241105
+Epsilon Factor: 10000
+Epsilon: 0.0000001329
+
+
+--- Trial 2 ---
+Original Difference: 29.242434
+New Difference: 29.244339
+Epsilon Factor: 10000
+Epsilon: 0.0000001905
+
+
+--- Trial 3 ---
+Original Difference: 29.242434
+New Difference: 29.247170
+Epsilon Factor: 10000
+Epsilon: 0.0000004736
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 10000:
+==================================================
+Algorithm: Greedy Naive
+Average Tuples Removed: 192.66666666666666
+Average Time Taken: 1.12 seconds
+--------------------------------------------------
+Algorithm: Greedy Binary Search
+Average Tuples Removed: 103.33333333333333
+Average Time Taken: 11.33 seconds
+--------------------------------------------------
+Algorithm: Combined Naive-Binary
+Average Tuples Removed: 104.66666666666667
+Average Time Taken: 1.55 seconds
+--------------------------------------------------
+
+--- Trial 1 ---
+Original Difference: 29.242434
+New Difference: 29.245380
+Epsilon Factor: 100000
+Epsilon: 0.0000000295
+
+
+--- Trial 2 ---
+Original Difference: 29.242434
+New Difference: 29.236110
+Epsilon Factor: 100000
+Epsilon: 0.0000000632
+
+
+--- Trial 3 ---
+Original Difference: 29.242434
+New Difference: 29.249029
+Epsilon Factor: 100000
+Epsilon: 0.0000000659
+
+
+Averages for Dataset Size 4000000, Epsilon Factor 100000:
+==================================================
+Algorithm: Greedy Naive
+Average Tuples Removed: 347.6666666666667
+Average Time Taken: 1.11 seconds
+--------------------------------------------------
+Algorithm: Greedy Binary Search
+Average Tuples Removed: 244.66666666666666
+Average Time Taken: 24.83 seconds
+--------------------------------------------------
+Algorithm: Combined Naive-Binary
+Average Tuples Removed: 246.33333333333334
+Average Time Taken: 1.67 seconds
+--------------------------------------------------
