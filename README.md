@@ -10,7 +10,7 @@ This project focuses on developing and implementing algorithms to minimize the r
 
 
 ## **Files Included:**
-- **Combined.py, OneConfounder.py, MultipleConfounders.py, RealData.py:** Python scripts implementing the various algorithms and conducting experiments.
+- **Code/:** Directory containing the python scripts implementing the various algorithms and conducting experiments.
 - **Results/**: Directory containing output files, plots, and logs from experiments.
 - **ProjectReport**.pdf: A report detailing the project information and progression.
 - **README.md:** Project documentation.
